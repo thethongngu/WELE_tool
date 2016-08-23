@@ -1,0 +1,16 @@
+E:\Projects\Windows Phone Apps\WELE Tools\WELE Tools\obj\Release\Interop.WMPLib.dll
+E:\Projects\Windows Phone Apps\WELE Tools\WELE Tools\obj\Release\AxInterop.WMPLib.dll
+E:\Projects\Windows Phone Apps\WELE Tools\WELE Tools\obj\Release\WELE Tools.vbproj.ResolveComReference.cache
+E:\Projects\Windows Phone Apps\WELE Tools\WELE Tools\bin\Release\WELE Tools.exe
+E:\Projects\Windows Phone Apps\WELE Tools\WELE Tools\bin\Release\WELE Tools.pdb
+E:\Projects\Windows Phone Apps\WELE Tools\WELE Tools\bin\Release\WELE Tools.xml
+E:\Projects\Windows Phone Apps\WELE Tools\WELE Tools\bin\Release\Interop.WMPLib.dll
+E:\Projects\Windows Phone Apps\WELE Tools\WELE Tools\bin\Release\AxInterop.WMPLib.dll
+E:\Projects\Windows Phone Apps\WELE Tools\WELE Tools\obj\Release\WELE Tools.vbprojResolveAssemblyReference.cache
+E:\Projects\Windows Phone Apps\WELE Tools\WELE Tools\obj\Release\WELE_Tools.Form1.resources
+E:\Projects\Windows Phone Apps\WELE Tools\WELE Tools\obj\Release\WELE_Tools.Resources.resources
+E:\Projects\Windows Phone Apps\WELE Tools\WELE Tools\obj\Release\WELE_Tools.Options.resources
+E:\Projects\Windows Phone Apps\WELE Tools\WELE Tools\obj\Release\WELE Tools.vbproj.GenerateResource.Cache
+E:\Projects\Windows Phone Apps\WELE Tools\WELE Tools\obj\Release\WELE Tools.exe
+E:\Projects\Windows Phone Apps\WELE Tools\WELE Tools\obj\Release\WELE Tools.xml
+E:\Projects\Windows Phone Apps\WELE Tools\WELE Tools\obj\Release\WELE Tools.pdb
