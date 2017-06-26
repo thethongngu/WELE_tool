@@ -1,3 +1,3 @@
 # WELE-Tool
-- A tool that help people easier to pratice listening English by transcripting.
-- Copy all files in WELE Tools/bin/Release folder. Double click WELE Tools.exe to run 
+- Pause-and-play tool for scripting English.
+- Use shortcut to control the media (play, pause, repeat, ...)
